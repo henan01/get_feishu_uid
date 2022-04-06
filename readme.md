@@ -8,7 +8,7 @@
  * Copyright (c) 2022 by zhangpanfeng, All Rights Reserved. 
 -->
 # 飞书open_id获取
-
+# 项目地址：https://github.com/995199148/get_feishu_uid.git
 * 主要功能：
   * 本程序主要是为了发送飞书webhook时可以@用户，获取用户open_id
 * 项目原理：
